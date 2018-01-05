@@ -18,6 +18,8 @@
 * 10: Change coding where it refers to SQLite to PostgreSQL
 * 11: Create a WSGI file
 * 12: Edit catalog.conf file with IP address
+* 13: Generate key pair for grader
+* 14: Create dir .ssh/authorized_keys for grader and copy public key to it
 ### IP Address & ssh port
 * static IP address: 18.216.134.75
 * ssh Port: 2200
