@@ -20,6 +20,8 @@
 * 12: Edit catalog.conf file with IP address
 * 13: Generate key pair for grader
 * 14: Create dir .ssh/authorized_keys for grader and copy public key to it
+* 15: Write this READme file
+* 16: Copy & paste private key for grader into notes for reviewer
 ### IP Address & ssh port
 * static IP address: 18.216.134.75
 * ssh Port: 2200
