@@ -23,10 +23,10 @@
 * 15: Write this READme file
 * 16: Copy & paste private key for grader into notes for reviewer
 ### IP Address & ssh port
-* static IP address: 18.216.134.75
+* static IP address: 18.188.98.244
 * ssh Port: 2200
 ### Complete URL found with Reverse DNS Lookup
-* ec2-18-216-134-75.us-east-2.compute.amazonaws.com
+* ec2-18-188-98-244.us-east-2.compute.amazonaws.com
 ## Helpful 3rd Party Resources
 * Google(of course)
 * Udacity forum
